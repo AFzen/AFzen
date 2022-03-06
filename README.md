@@ -3,6 +3,8 @@
 
 - 🌱 Learning about **Cloud Infrastructure | Network architecture**
 
+- 📚 Studying **Internet Systems**
+
 - 📫 How to reach me **arthurfattorif@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
