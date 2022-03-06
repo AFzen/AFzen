@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
+<h2 align="left">Hi 👋, I'm Arthur</h1>
 <h3 align="center">I am a computer support analyst at RBT internet</h3>
 
 - 🌱 Learning about **Cloud Infrastructure | Network architecture**
