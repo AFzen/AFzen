@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Arthur</h1>
-<h3 align="center">I am a computer support analyst at RBT internet</h3>
+<h3 align="center">I am a IT Assistant at Laghetto Hotels</h3>
 
 - 🌱 Learning about **Cloud Infrastructure | Network architecture**
 
